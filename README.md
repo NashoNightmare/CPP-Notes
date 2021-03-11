@@ -1,4 +1,4 @@
 # C Plus Plus - Tutorial
 
-## Basic Hello World program
+## Hello World
 
