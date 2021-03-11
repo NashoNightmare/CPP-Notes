@@ -1,7 +1,7 @@
 # C Plus Plus - Tutorial
 
 ## Hello World
-```ruby
+```cpp
 #include <iostream>
 using namespace std;
 
